@@ -1,2 +1,2 @@
-# Rep-23-01-14
-Praca z tekstem technicznym 4-6
+# Rep-23-02-26
+Praca z tekstem technicznym 6-6
