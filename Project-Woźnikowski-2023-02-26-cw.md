@@ -83,7 +83,8 @@
 In this simple introduction, you'll learn the basics of Markdown formatting. It takes about two hours to master those basics.
 
 
-Grab something to drink and a few snacks, for you're about to enter on a Markdown Journey!
+Grab something to drink and a few snacks, for you're about to enter on a Markdown Journey! Good luck!  
+
 # Line Break  
 Here you'll learn how to create paragraphs with line break.
 
